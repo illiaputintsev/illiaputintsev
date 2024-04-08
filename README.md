@@ -1,16 +1,25 @@
-### Hi there 👋
+# Welcome to Illia's GitHub Profile!
 
-<!--
-**illiaputintsev/illiaputintsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a passionate software developer from Ukraine with a keen interest in building innovative solutions to real-world problems.
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages:  Python, JavaScript, C++
+- Web Development: HTML, CSS, JavaScript, React.js, Node.js
+- Database Management: SQL, MongoDB, PostgreSQL
+- Version Control: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are a few projects I've worked on:
+To be added :)
+
+## Education
+- Bachelor of Science in Computer Engineering, Kharkiv National University of Radioelectronics, 2023
+- HyperionDev Skills Bootcamp in Software Engineering
+
+## Contact Me
+- Email: illiaputintsev03@gmail.com
+- LinkedIn: linkedin.com/in/illiaputintsev
+
+Feel free to reach out to discuss collaboration opportunities or if you have any questions!
+
