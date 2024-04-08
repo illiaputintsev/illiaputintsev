@@ -1,4 +1,4 @@
-# Welcome to Illia's GitHub Profile!
+# Welcome to Illia's GitHub Profile!💻🚀
 
 ## About Me
 I am a passionate software developer from Ukraine with a keen interest in building innovative solutions to real-world problems.
@@ -11,7 +11,7 @@ I am a passionate software developer from Ukraine with a keen interest in buildi
 
 ## Projects
 Here are a few projects I've worked on:
-To be added :)
+- To be added :)
 
 ## Education
 - Bachelor of Science in Computer Engineering, Kharkiv National University of Radioelectronics, 2023
