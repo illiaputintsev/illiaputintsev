@@ -1,7 +1,7 @@
 # Welcome to Illia's GitHub Profile!💻🚀
 
 ## About Me
-I am a passionate software developer from Ukraine with a keen interest in building innovative solutions to real-world problems.
+I am a passionate software developer with a keen interest in building innovative solutions to real-world problems.
 
 ## Skills
 - Programming Languages:  Python, JavaScript, C++
@@ -15,7 +15,6 @@ Here are a few projects I've worked on:
 
 ## Education
 - Bachelor of Science in Computer Engineering, Kharkiv National University of Radioelectronics, 2023
-- HyperionDev Skills Bootcamp in Software Engineering
 
 ## Contact Me
 - Email: illiaputintsev03@gmail.com
