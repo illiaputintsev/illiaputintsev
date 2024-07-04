@@ -14,7 +14,7 @@ Here are a few projects I've worked on:
 - To be added :)
 
 ## Education
-- Bachelor of Science in Computer Engineering, Kharkiv National University of Radioelectronics, 2024
+- Bachelor of Science in Computer Science, Kharkiv National University of Radioelectronics, 2024
 
 ## Contact Me
 - Email: illiaputintsev03@gmail.com
