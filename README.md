@@ -4,9 +4,9 @@
 I am a passionate software developer with a keen interest in building innovative solutions to real-world problems.
 
 ## Skills
-- Programming Languages:  Python, JavaScript, C++
-- Web Development: HTML, CSS, JavaScript, React.js, Node.js
-- Database Management: SQL, MongoDB, PostgreSQL
+- Programming Languages: Python
+- Web Development: Django, HTML, CSS, JavaScript, React.js
+- Database Management: SQL, SQLite, PostgreSQL
 - Version Control: Git, GitHub
 
 ## Projects
