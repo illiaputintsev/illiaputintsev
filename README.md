@@ -11,7 +11,8 @@ I am a passionate software developer with a keen interest in building innovative
 
 ## Projects
 Here are a few projects I've worked on:
-- To be added :)
+- https://github.com/illiaputintsev/django_api
+- https://github.com/illiaputintsev/news-search-app
 
 ## Education
 - Bachelor of Science in Computer Science, Kharkiv National University of Radioelectronics, 2024
