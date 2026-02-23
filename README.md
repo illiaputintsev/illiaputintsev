@@ -15,11 +15,9 @@ Here are a few projects I've worked on:
 - https://github.com/illiaputintsev/news-search-app
 
 ## Education
-- Bachelor of Science in Computer Science, Kharkiv National University of Radioelectronics, 2024
+- Artificial Intelligence BSc, King's College London, UK, 2026
 
 ## Contact Me
 - Email: illiaputintsev03@gmail.com
 - LinkedIn: linkedin.com/in/illiaputintsev
-
-Feel free to reach out to discuss collaboration opportunities or if you have any questions!
 
