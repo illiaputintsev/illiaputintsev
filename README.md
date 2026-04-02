@@ -1,23 +1,21 @@
-# Welcome to Illia's GitHub Profile!💻🚀
+# Welcome to my GitHub Profile!
 
 ## About Me
-I am a passionate software developer with a keen interest in building innovative solutions to real-world problems.
+First-year BSc Artificial Intelligence student at King's College London. Mostly into AI and ML, with hands-on experience in robotics, computer vision, and full-stack web dev.
 
 ## Skills
-- Programming Languages: Python
-- Web Development: Django, HTML, CSS, JavaScript, React.js
-- Database Management: SQL, SQLite, PostgreSQL
-- Version Control: Git, GitHub
-
-## Projects
-Here are a few projects I've worked on:
-- https://github.com/illiaputintsev/django_api
-- https://github.com/illiaputintsev/news-search-app
+Python, Java, JavaScript
+Django, React, Vite
+ROS, SMACH, actionlib, YOLOv4, OpenCV
+PostgreSQL, SQLite, mySQL
 
 ## Education
-- Artificial Intelligence BSc, King's College London, UK, 2026
+- Artificial Intelligence BSc, King's College London, UK, 2027
 
-## Contact Me
-- Email: illiaputintsev03@gmail.com
-- LinkedIn: linkedin.com/in/illiaputintsev
+## Currently Exploring
+AI/ML engineering, computer vision, and placement opportunities in London.
+
+## Get in Touch
+Email: illiaputintsev03@gmail.com
+LinkedIn: linkedin.com/in/illiaputintsev
 
