@@ -1,21 +1,19 @@
-# Welcome to my GitHub Profile!
+# Illia Putintsev
 
-## About Me
-First-year BSc Artificial Intelligence student at King's College London. I am into AI and ML. I have hands-on experience in robotics, computer vision, and full-stack web dev.
+Second-year BSc Artificial Intelligence student at King's College London (2025–2029). I work as a backend engineer alongside my degree and do research on different AI topics in my spare time.
 
-## Skills
-Python, Java, JavaScript
-Django, React, Vite
-ROS, SMACH, actionlib, YOLOv4, OpenCV
-PostgreSQL, SQLite, mySQL
+## What I'm working on
 
-## Education
-- Artificial Intelligence BSc, King's College London, UK, 2028
+**TIM** — Backend Team Lead at an AI assistant for business relationships and negotiations, live on the App Store and Google Play. 
 
-## Currently Exploring
-AI/ML engineering, computer vision, and placement opportunities in London.
+**LASR, King's College London** — Undergraduate Researcher, LASR team member. I built the object-sorting task on TIAGo as a ROS 2 state machine and evaluated open-vocabulary detectors (Grounding DINO, YOLOE, OWLv2, YOLO-World).
 
-## Get in Touch
-Email: illiaputintsev03@gmail.com
-LinkedIn: linkedin.com/in/illiaputintsev
+**[attnconverge](https://github.com/illiaputintsev/attnconverge)** — my own research project asking whether transformer attention patterns converge across models the way representations are claimed to. Across eight models from four organisations: early layers agree, late layers don't, and size ratio predicts agreement better than absolute scale does.
 
+## Stack
+
+Python, Java, TypeScript, SQL · Django, Django REST Framework, Spring Boot, React, Angular · PostgreSQL (pgvector), Redis, Celery · PyTorch, HuggingFace Transformers, LangChain, OpenCV, Ultralytics · ROS 2, Gazebo, MoveIt 2, Nav2 · Docker, GitHub Actions, nginx, AWS S3, Google Cloud KMS
+
+## Contact
+
+illiaputintsev03@gmail.com · [linkedin.com/in/illiaputintsev](https://linkedin.com/in/illiaputintsev)
